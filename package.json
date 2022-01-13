@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "chalk": "^5.0.0",
+    "chalk": "^4.1.0",
+    "cli-select": "^1.1.2",
     "inquirer": "^8.2.0",
-    "shell-history": "^2.0.0"
+    "multiselect-prompt": "^0.3.2",
+    "shell-history": "^2.0.0",
+    "winston": "^3.4.0"
   },
   "name": "gcmsg",
   "description": "Npm package to generate custom git commit message for your project",
