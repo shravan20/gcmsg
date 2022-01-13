@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "inquirer": "^8.2.0",
+    "shell-history": "^2.0.0"
+  },
+  "name": "gcmsg",
+  "description": "Npm package to generate custom git commit message for your project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shravan20/gcmsg.git"
+  },
+  "keywords": [
+    "git",
+    "gcmsg",
+    "commit",
+    "github"
+  ],
+  "author": "@shravan20",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shravan20/gcmsg/issues"
+  },
+  "homepage": "https://github.com/shravan20/gcmsg#readme"
+}
