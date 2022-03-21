@@ -1,1 +1,1 @@
-# GCMSG : npm package ; git utility tool
+# GCMSG : npm package - git utility tool
